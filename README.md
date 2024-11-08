@@ -13,3 +13,7 @@ The Dice Roller Game is a simple Flutter application that simulates the rolling 
 
 
 # New Edit
+# New Edit
+# New Edit
+# New Edit
+# New Edit
