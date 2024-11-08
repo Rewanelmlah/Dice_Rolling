@@ -22,6 +22,7 @@ class _DiceRollerState extends State<DiceRoller> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      ////////
       //changing color
       backgroundColor: Colors.green,
       body: Center(
