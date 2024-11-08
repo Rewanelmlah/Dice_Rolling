@@ -9,3 +9,7 @@ The Dice Roller Game is a simple Flutter application that simulates the rolling 
  • Randomly generate values for two dice when the “Roll” button is pressed.
  • Display the corresponding images for each dice value.
  • Show the sum of the two dice values.
+
+
+
+# New Edit
