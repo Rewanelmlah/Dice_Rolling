@@ -23,7 +23,7 @@ class _DiceRollerState extends State<DiceRoller> {
   Widget build(BuildContext context) {
     return Scaffold(
       //changing color
-      backgroundColor: Colors.black,
+      backgroundColor: Colors.green,
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
